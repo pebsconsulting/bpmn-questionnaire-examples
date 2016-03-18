@@ -1,0 +1,32 @@
+{
+   "name":"BPMN-Grundlagentest",
+   "intro":"Bitte beantworten sie die nachfolgenden Fragen. In den meisten Fällen ist nur eine Antwort korrekt, in Ausnahmefällen auch mehrere. Im jeweiligen Fragentext ist ein expliziter Hinweis enthalten, ob es nur eine oder mehrere richtige Antworten gibt.",
+   "questions":[
+      {
+         "type":"single",
+         "text":"Wofür steht BPMN 2.0?",
+         "answers":[
+            "Business Process Management Notation 2.0",
+            "Business Process Modeling Notation 2.0",
+            "Business Process Mastering Notation 2.0",
+            "Business Process Model and Notation 2.0"
+         ],
+         "rightAnswer":[
+            "Business Process Model and Notation 2.0"
+         ]
+      },
+      {
+         "type":"single",
+         "text":"Welche Institution ist für BPMN verantwortlich?",
+         "answers":[
+            "OASIS",
+            "OMG",
+            "ISO",
+            "UML"
+         ],
+         "rightAnswer":[
+            "OMG"
+         ]
+      }
+   ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "bpmn-questionnaire-example-internationalization-simple",
+  "version": "0.0.1",
+  "description": "Simple internationalization using a minimal implementation of a translation library",
+  "main": "client/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philippfromme/bpmn-questionnaire-examples.git"
+  },
+  "keywords": [
+    "bpmn-questionnaire",
+    "examples"
+  ],
+  "author": {
+    "name": "Philipp Fromme",
+    "url": "https://github.com/philippfromme"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/philippfromme/bpmn-questionnaire-examples/issues"
+  },
+  "homepage": "https://github.com/philippfromme/bpmn-questionnaire-examples#readme",
+  "dependencies": {
+    "bpmn-questionnaire": "1.1.0"
+  },
+  "devDependencies": {
+    "grunt": "0.4.5",
+    "grunt-browserify": "4.0.1",
+    "grunt-contrib-watch": "0.6.1",
+    "lodash": "4.2.1",
+    "virtual-dom": "2.1.1"
+  }
+}
