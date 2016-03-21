@@ -1,0 +1,34 @@
+{
+  "name": "bpmn-questionnaire-example-internationalization-i18next",
+  "version": "0.0.1",
+  "description": "Internationalization using the i18next internationalization library",
+  "main": "client/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philippfromme/bpmn-questionnaire-examples.git"
+  },
+  "keywords": [
+    "bpmn-questionnaire",
+    "examples"
+  ],
+  "author": {
+    "name": "Philipp Fromme",
+    "url": "https://github.com/philippfromme"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/philippfromme/bpmn-questionnaire-examples/issues"
+  },
+  "homepage": "https://github.com/philippfromme/bpmn-questionnaire-examples#readme",
+  "dependencies": {
+    "bpmn-questionnaire": "1.1.0",
+    "i18next": "^2.3.5"
+  },
+  "devDependencies": {
+    "grunt": "0.4.5",
+    "grunt-browserify": "4.0.1",
+    "grunt-contrib-watch": "0.6.1",
+    "lodash": "4.2.1",
+    "virtual-dom": "2.1.1"
+  }
+}

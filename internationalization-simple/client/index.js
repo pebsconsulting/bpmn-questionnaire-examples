@@ -6,8 +6,6 @@ var BpmnQuestionnaire = require('bpmn-questionnaire');
 // Types
 var single            = require('./types/single.js');
 
-'use strict';
-
 // lodash
 var has = require('lodash/has');
 
